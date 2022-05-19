@@ -22,7 +22,7 @@ Descargar e importar la carpeta en Unity
 * [VisualStudio2022](https://visualstudio.microsoft.com/es/) - Editor de Scripts
 
 ## Version !
-*000.03
+*1.03
 
 ## Autores ✒️
 * **Sebastian** - *Trabajo inicial-final*
