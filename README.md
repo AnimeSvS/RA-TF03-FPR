@@ -6,8 +6,10 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Pre-requisitos 📋
 
-_Unity 2020.3.32f1
-_Visual Studio 2022
+```
+Unity 2020.3.32f1
+Visual Studio 2022
+```
 
 ### Instalación 🔧
 ```
