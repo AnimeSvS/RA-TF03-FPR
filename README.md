@@ -1,2 +1,2 @@
 # RA-TF03-FPR
- Aplicacion con realidad aumentada
+ Aplicacion movil con realidad aumentada
