@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef4d3f26a3e0eb0479d5d74f68084371, type: 3}
+  m_Name: mueble
+  m_EditorClassIdentifier: 
+  ItemName: Mueble
+  ItemImage: {fileID: 21300000, guid: 066a2c4bb66bfe046891cfa899219e82, type: 3}
+  ItemDescription: 'Precio: S/ 75.00 Estado: Reparado'
+  Item3DModel: {fileID: 8607545329381585384, guid: de1412087287de44eb49765cec82dcd6, type: 3}
