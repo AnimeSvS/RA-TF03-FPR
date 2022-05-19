@@ -19,7 +19,7 @@ Descargar e importar la carpeta en Unity
 
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - Lenguaje usado
 * [Unity](https://unity.com/) - Programa usado
-* [VisualStudio2022]([https://rometools.github.io/rome/](https://visualstudio.microsoft.com/es/)) - Editor de Scripts
+* [VisualStudio2022](https://visualstudio.microsoft.com/es/) - Editor de Scripts
 
 ## Version !
 *000.03
